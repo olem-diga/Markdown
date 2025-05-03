@@ -1,8 +1,8 @@
 # My Markdown Notes
 
 - [0. Markdown Introduction](https://github.com/olem-diga/Markdown/blob/main/0.%20Markdown%20Introduction/0.%20Markdown%20Introduction.md)
-- [1. Basic Markdown Syntax])
-- [2. Extended Syntax]()
+- [1. Basic Markdown Syntax](http://github.com/olem-diga/Markdown/blob/main/1.%20Basic%20Markdown%20Syntax/1.%20Basic%20Markdown%20Syntax.md)
+- [2. Extended Syntax](https://github.com/olem-diga/Markdown/blob/main/2.%20Extended%20Syntax/2.%20Extended%20Syntax.md)
 
 # See Also:
 
